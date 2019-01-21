@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "42,11,18,23,32,26,39,36,51,2",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "1991,508,851,1101,1551,1272,1860,1741,2404,52",
+                        "endLines": "50,17,22,25,35,31,41,38,59,10",
+                        "endColumns": "9,9,9,9,9,9,9,9,9,9",
+                        "endOffsets": "2402,849,1099,1270,1739,1549,1989,1858,2871,506"
+                    },
+                    "to": {
+                        "startLines": "17,26,33,38,41,45,51,54,57,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "769,1185,1531,1784,1958,2151,2433,2567,2689,3161",
+                        "endLines": "25,32,37,40,44,50,53,56,65,74",
+                        "endColumns": "9,9,9,9,9,9,9,9,9,9",
+                        "endOffsets": "1180,1526,1779,1953,2146,2428,2562,2684,3156,3615"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "1,1",
+                        "startOffsets": "97,52",
+                        "endColumns": "44,44",
+                        "endOffsets": "140,95"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,47",
+                        "endOffsets": "98,146"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,7,5,10,11,4,8,9,6",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "52,94,286,164,446,479,128,336,391,231",
+                        "endColumns": "41,33,49,66,32,30,35,54,54,54",
+                        "endOffsets": "92,126,334,229,477,508,162,389,444,284"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "281,326,363,416,486,522,556,595,653,711",
+                        "endColumns": "44,36,52,69,35,33,38,57,57,57",
+                        "endOffsets": "321,358,411,481,517,551,590,648,706,764"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endLines": "4",
+                        "endColumns": "21",
+                        "endOffsets": "178"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "151",
+                        "endLines": "6",
+                        "endColumns": "21",
+                        "endOffsets": "276"
+                    }
+                }
+            ]
+        }
+    ]
+}

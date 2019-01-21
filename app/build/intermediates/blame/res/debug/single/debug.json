@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button1_off_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button1_off_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button3_on_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button3_on_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_normal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\tab_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_joycontainer.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\joycontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_vertical_green_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_vertical_green_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button1_on_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button1_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_outputcontainer.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\outputcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button2_on_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button2_on_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_sliders.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\color_sliders.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\tab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\tab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_output_tablet.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\output_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_toggle_button_off_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\toggle_button_off_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_leds_tablet.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\leds_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_background_holo_dark.jpg.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-nodpi\\background_holo_dark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_vertical_red_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_vertical_red_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_device.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\no_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toggle_button_on_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\toggle_button_on_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_joystick_background.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\joystick_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button_capacitive_off_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button_capacitive_off_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_demokit.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_demokit.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_horizontal_green_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_horizontal_green_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_relaybutton.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\relaybutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_vertical_blue_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_vertical_blue_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_toggle_button_on_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\toggle_button_on_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_horizontal_red_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_horizontal_red_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button_capacitive_on_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button_capacitive_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_horizontal_blue_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_horizontal_blue_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_inputcontainer.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\inputcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_normal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\tab_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button3_off_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button3_off_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_control_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_control_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_joystick_pressed_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\joystick_pressed_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_relay_tablet.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\relay_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_vertical_green_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_vertical_green_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toggle_button_off_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\toggle_button_off_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_horizontal_green_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_horizontal_green_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button2_off_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button2_off_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_horizontal_red_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_horizontal_red_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button3_on_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button3_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_vertical_red_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_vertical_red_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_servorelay.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\servorelay.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_control_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_control_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button_capacitive_on_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button_capacitive_on_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_joystick_pressed_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\joystick_pressed_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_servo_tablet.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\servo_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_vertical_led_slider.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\vertical_led_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button3_off_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button3_off_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_joystick_normal_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\joystick_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_joystick_background.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\joystick_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_vertical_color_sliders.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\vertical_color_sliders.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_servo.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\servo.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-nodpi_background_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-xlarge-nodpi\\background_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button_capacitive_off_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button_capacitive_off_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_horizontal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_horizontal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_demokit_splash.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-nodpi\\demokit_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button1_off_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button1_off_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button2_off_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button2_off_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_horizontal_blue_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_horizontal_blue_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_demokit.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_demokit.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_indicator_button2_on_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\indicator_button2_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land_main.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout-xlarge-land\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_templightcontainer.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\templightcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\xml_accessory_filter.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scrubber_horizontal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-mdpi\\scrubber_horizontal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_touched_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\tab_touched_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrubber_vertical_blue_holo_dark.9.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\scrubber_vertical_blue_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_buttoncontainer.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\buttoncontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_button1_on_noglow.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\indicator_button1_on_noglow.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_joystick_normal_holo_dark.png.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\drawable-hdpi\\joystick_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\build\\intermediates\\res\\merged\\debug\\layout_led_slider.xml.flat",
+        "source": "C:\\Users\\JingYuZhao\\AndroidStudioProjects\\app-adk\\app\\src\\main\\res\\layout\\led_slider.xml"
+    }
+]
